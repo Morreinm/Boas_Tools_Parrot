@@ -1,17 +1,6 @@
 # BoasToolsParrot
 
-Colecao de ferramentas para desenvolvimento e pentest
-
----
-
-## Ferramentas de Desenvolvimento
-
-- **tool-extract** - Extrator de dados multi-formato
-- **tool-convert** - Conversor universal de arquivos  
-- **tool-secure** - Gerenciador de senhas local
-- **tool-analyze** - Analisador de codigo estatico
-- **tool-fetch** - Cliente HTTP simplificado
-- **tool-logger** - Sistema de logs
+Colecao de ferramentas para pentest
 
 ---
 
@@ -32,4 +21,4 @@ Colecao de ferramentas para desenvolvimento e pentest
 
 ---
 
-## Instalacao
+
