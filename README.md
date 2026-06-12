@@ -18,7 +18,7 @@ Colecao de ferramentas para pentest
 - **aircrack-ng** - Auditoria de redes wireless
 - **burpsuite** - Proxy e scanner web
 - **netcat** - Ferramenta de conexao universal
-
+- **zenmap** - Nmap com um GUI
 ---
 
 
